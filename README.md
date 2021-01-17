@@ -1,5 +1,37 @@
 # About my repositories
 
+
+- 🔭 I’m currently working on Home.
+- 🌱 I’m currently learning Rust.
+- 👯 I’m looking to collaborate on internet.
+- 🤔 I’m looking for help with job to support living.
+- 💬 Ask me about ...
+- 📫 How to reach me: What are you doing?
+- 😄 Pronouns: It is ...
+- ⚡ Fun fact: Go play and programming is enjoy.
+
+---
+
+## [rust-learning](https://github.com/rdigua/rust-learning)
+    
+    A log about learning rust
+    
+    [rust](https://github.com/topics/rust "Topic: rust")[learning](https://github.com/topics/learning "Topic: learning")[tutorial](https://github.com/topics/tutorial "Topic: tutorial")
+    
+## [futile](https://github.com/rdigua/futile)
+    
+    A small tool for splitting file to go play format files.
+    
+    [exercise](https://github.com/topics/exercise "Topic: exercise")[practice](https://github.com/topics/practice "Topic: practice")[tutorial](https://github.com/topics/tutorial "Topic: tutorial")[rust-lang](https://github.com/topics/rust-lang "Topic: rust-lang")[rust](https://github.com/topics/rust "Topic: rust")[splitter](https://github.com/topics/splitter "Topic: splitter")
+
+## [demon](https://github.com/rdigua/demon)
+
+The mind of stock market.
+
+[rust](https://github.com/topics/rust "Topic: rust")
+
+---
+
 ## [memorandum](https://github.com/rdigua/memorandum)
 
 ***Private***
