@@ -1,4 +1,4 @@
-# About my repositories
+# About
 
 
 - 🔭 I’m currently working on Home.
@@ -11,6 +11,9 @@
 - ⚡ Fun fact: Go play and programming is enjoy.
 
 ---
+
+## my repositories
+
 
 ## [rust-learning](https://github.com/rdigua/rust-learning)
     
