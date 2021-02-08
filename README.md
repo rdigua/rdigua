@@ -12,7 +12,7 @@
 
 ---
 
-## my repositories
+## My repositories
 
 
 ## [rust-learning](https://github.com/rdigua/rust-learning)
